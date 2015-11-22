@@ -11,8 +11,11 @@
     "pear-pear.php.net/DB" : "1.7.4"
   },
   "autoload": {
-    "include-path": [
+    "classmap": [
       "src/"
     ]
-  }
+  },
+  "include-path": [
+    "src/"
+  ]
 }
