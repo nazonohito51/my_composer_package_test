@@ -1,0 +1,5 @@
+/vendor
+.env
+.idea
+/my_tmp
+composer.phar

@@ -1,0 +1,3 @@
+# my_composer_package_test
+
+自作composerパッケージを他プロジェクトからrequireするためテスト。
